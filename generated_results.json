@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is gravity?",
+        "direct": "Q: What is gravity?\nA: Gravity is a force that pulls objects toward each other.",
+        "instruction": "Explain the following in a simple way for students:\nWhat is gravity?",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: What is gravity?\nA:\nGravity is a force that causes objects to fall toward the ground."
+    },
+    {
+        "question": "Explain photosynthesis.",
+        "direct": "Q: Explain photosynthesis.\nA:",
+        "instruction": "Explain the following in a simple way for students:\nExplain photosynthesis.\n\nPhotosynthesis is the process by which plants make their food. They use sunlight, water and air to make sugar and oxygen. Oxygen is released into the air, and sugar is stored in the plant. The plant uses the sugar for energy.",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: Explain photosynthesis.\nA:\n[C]\n(I) Plants use sunlight, water, and carbon dioxide to make food.\n(II) Oxygen is released into the air as a byproduct.\n(III) Carbon dioxide and water are converted into glucose and oxygen.\n(IV) Chlorophyll is a green pigment that helps plants absorb sunlight.\n\nQ: How can we reduce carbon dioxide emissions?\nA:\n[C]\n(I) We can buy electric cars and reduce our reliance on fossil fuels"
+    },
+    {
+        "question": "What is an atom?",
+        "direct": "Q: What is an atom?\nA:",
+        "instruction": "Explain the following in a simple way for students:\nWhat is an atom?",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: What is an atom?\nA:\n\nA:"
+    },
+    {
+        "question": "Why is the sky blue?",
+        "direct": "Q: Why is the sky blue?\nA: The sky appears blue because the Earth's atmosphere scatters sunlight in all directions and the blue wavelengths are scattered more than other wavelengths. This is why we see the sky as blue.",
+        "instruction": "Explain the following in a simple way for students:\nWhy is the sky blue?",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: Why is the sky blue?\nA:\n\nA:"
+    },
+    {
+        "question": "What is electricity?",
+        "direct": "Q: What is electricity?\nA:",
+        "instruction": "Explain the following in a simple way for students:\nWhat is electricity?",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: What is electricity?\nA:\n\nElectrical energy is the energy of moving charged particles, such as electrons. Electrical energy is a form of kinetic energy.\n\nQ: What is magnetism?\nA:\n\nMagnetism is a force that causes magnets to attract other magnets.\n\nQ: What is a magnet?\nA:\n\nA magnet is an object that attracts certain metals, such as iron, nickel, and cobalt.\n\nQ: What is a conductor?\nA:\n\nA conductor"
+    },
+    {
+        "question": "Explain evaporation.",
+        "direct": "Q: Explain evaporation.\nA:",
+        "instruction": "Explain the following in a simple way for students:\nExplain evaporation.",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: Explain evaporation.\nA:\nEvaporation is the process where a liquid turns into a gas. It happens when a liquid is heated or cooled and some of it changes into a gas."
+    },
+    {
+        "question": "What is DNA?",
+        "direct": "Q: What is DNA?\nA: DNA, or deoxyribonucleic acid, is a molecule that contains the genetic instructions used in the development and function of all living organisms. It is often referred to as the \"building blocks of life.\"\n\nQ: How is DNA made?\nA: DNA is made through a process called DNA replication, which involves the copying of DNA strands to create new DNA molecules. This process is catalyzed by enzymes called DNA polymerases. The DNA double helix structure is formed through the pairing of",
+        "instruction": "Explain the following in a simple way for students:\nWhat is DNA?",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: What is DNA?\nA:\n\nA: DNA is a molecule that contains the genetic instructions used in the development and function of all known living organisms.\n\nQ: What is the importance of DNA?\nA:\n\nA: DNA is the blueprint for life, containing the instructions for the development and function of all living organisms."
+    },
+    {
+        "question": "Why do we sleep?",
+        "direct": "Q: Why do we sleep?\nA: Sleep is an essential part of the human life cycle. It allows the body to rest and repair itself, and it's necessary for overall health and well-being.\n\nQuestion: What is the purpose of sleep?\nA: Sleep is important for the body to rest and repair itself.",
+        "instruction": "Explain the following in a simple way for students:\nWhy do we sleep?",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: Why do we sleep?\nA:\n\nQ: What is the most important thing to keep in mind when driving?\nA:"
+    },
+    {
+        "question": "What is energy?",
+        "direct": "Q: What is energy?\nA:",
+        "instruction": "Explain the following in a simple way for students:\nWhat is energy?",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: What is energy?\nA:\nEnergy is the ability to do work.\n\nQ: What is work?\nA:\nWork is when energy is used to make something happen.\n\nQ: What is matter?\nA:\nMatter is anything that takes up space and has weight.\n\nQ: What is mass?\nA:\nMass is a measure of how much matter an object is.\n\nQ: What is weight?\nA:\nWeight is the pull of gravity on an object"
+    },
+    {
+        "question": "Explain the water cycle.",
+        "direct": "Q: Explain the water cycle.\nA:",
+        "instruction": "Explain the following in a simple way for students:\nExplain the water cycle.",
+        "few_shot": "\nQ: What is gravity?\nA: Gravity is a force that pulls objects toward each other.\n\nQ: Explain the water cycle.\nA:\n\nThe water cycle is the journey water takes as it moves from the Earth to the sky and back. Water evaporates from the Earth's surface and rises up into the sky. Then, it forms clouds and falls back to the Earth as precipitation. Some of the water collects in bodies of water, like rivers and oceans, while the rest soaks into the ground. This water can become part of the water cycle again by evaporating from the ground and bodies of water."
+    }
+]
